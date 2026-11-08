@@ -1,7 +1,5 @@
 # 💫 About Me:
-# Saqer Al-Enezi<br><br>Welcome to my GitHub profile.<br><br>I'm Saqer Al-Enezi, a developer passionate about programming, software development, and cybersecurity. I enjoy creating, developing, and publishing tools and projects that are useful, practical, and efficient.<br><br>### Programming Languages<br>- C#<br>- Python
-
-
+# Saqer Al-Enezi
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/f3t) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelsdontcryoverlostsouls) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@offn2t) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/OFf_n2t) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/OFf_n2t) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@فدائيءءء) 
 
